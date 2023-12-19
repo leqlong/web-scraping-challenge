@@ -19,7 +19,7 @@ This new assignment consists of two technical products. You will submit the foll
 
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
 
-1 Use automated browsing to visit the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html). Inspect the page to identify which elements to scrape.
+1 Use automated browsing to visit the [Mars news site] (https://static.bc-edx.com/data/web/mars_news/index.html). Inspect the page to identify which elements to scrape.
 
 2 Create a Beautiful Soup object and use it to extract text elements from the website.
 
@@ -40,7 +40,7 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
 
 Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 
-1 Use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html). Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
+1 Use automated browsing to visit the [Mars Temperature Data Site] (https://static.bc-edx.com/data/web/mars_facts/temperature.html). Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 
 2 Create a Beautiful Soup object and use it to scrape the data in the HTML table. Note that this can also be achieved by using the Pandas read_html function. However, use Beautiful Soup here to continue sharpening your web scraping skills.
 
